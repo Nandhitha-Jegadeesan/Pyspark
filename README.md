@@ -1,8 +1,6 @@
 # Pyspark
 This repository contains my hands-on practice scripts and learning notes related to PySpark, specifically for data processing and transformation using Spark DataFrames in Databricks environment.
 
-Based on your uploaded Databricks notebook file titled **"Practise"**, here's a clean and concise `README.md` content you can use for your GitHub repository:
-
 ## 🧠 About This Notebook
 
 This notebook includes exercises on:
@@ -39,9 +37,5 @@ To run this notebook:
 2. Import the `Practise.html` notebook into your workspace.
 3. Attach it to a running cluster and execute the cells step-by-step.
 
-
-**Nandhitha Sree Jegadeesan**
-Big Data & PySpark Learner
-[GitHub Profile](https://github.com/Nandhitha-Jegadeesan)
 
 
